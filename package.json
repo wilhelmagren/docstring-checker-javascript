@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "glob": "^10.4.1",
+    "npm": "^10.8.1",
+    "strftime": "^0.10.2",
+    "yarn": "^1.22.22"
+  },
+  "name": "docstring-checker-javascript",
+  "version": "1.0.0",
+  "main": "bin/index.js",
+  "type": "module",
+  "repository": "git@github.com:wilhelmagren/docstring-checker-javascript.git",
+  "author": "Wilhelm Ågren <wilhelmagren98@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "dc": "./bin/index.js"
+  }
+}
